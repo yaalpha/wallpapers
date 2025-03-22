@@ -7,7 +7,6 @@ My personal wallpaper collection that fits best to tiling window managers.
 Clone the directory from your home directory.
 
 ```
-cd
 git clone --depth=1 https://github.com/yaalpha/wallpapers.git
 cd wallpapers/
 ```
